@@ -10,22 +10,6 @@ ServiceNow’s August ITSM AI update added an agent that can diagnose and resolv
 
 [ServiceNow August 2026 release notes](https://www.servicenow.com/docs/r/store-release-notes/na-suite-rn-2026-08-07.html)
 
-### Freshservice Freddy AI Agent Studio — Build your own AI helpdesk workers
-
-Approx. date: May 14, 2026
-
-Freshworks launched Freddy AI Agent Studio, a no-code environment for creating agents that can handle work such as password resets, access provisioning, policy questions, and other service requests. Agents can use knowledge sources and service data and perform actions across 30+ integrations; Freshworks also previewed an MCP gateway for connecting Freshservice data and actions to outside AI tools.
-
-[Freshworks AI Agent Studio announcement](https://www.freshworks.com/theworks/company-news/may-2026-launch/)
-
-### Jira Service Management — AI triage, sentiment and “similar request” hunting
-
-Approx. date: June 2026
-
-Atlassian moved several JSM AI features into general availability. Agents can get similar-request matches, automatically suggested request types for queue triage, and customer-sentiment analysis so they can quickly spot tickets where somebody is getting particularly unhappy.
-
-[Atlassian June 2026 Cloud changes](https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026)
-
 ### Intercom Fin Procedures — Write an AI workflow like an SOP
 
 Approx. date: July 17, 2026
@@ -133,30 +117,6 @@ Windows devices managed by Intune can now proactively request a new compliance e
 
 [Microsoft Intune September 2026 release notes](https://learn.microsoft.com/en-us/intune/whats-new/)
 
-### ChromeOS — Locate managed devices and diagnose connectivity locally
-
-Approx. date: June–July 2026
-
-Google added a remote Locate device command for disabled managed Chromebooks so administrators can obtain an approximate location after a lost device reconnects to the internet; location data expires after 24 hours and the device visibly tells the user that location is being shared. ChromeOS also gained connectivity troubleshooting in its Diagnostics app for testing access to Google services — a welcome addition for the eternal “the Chromebook says the Wi-Fi is connected but nothing works” ticket.
-
-### Google Chrome Enterprise/ChromeOS release notes
-
-Just for Fun / Worth Geeking Out About
-TeamViewer Assist AR uses local AI to clean up terrible video
-
-Approx. date: June 3, 2026
-
-TeamViewer integrated Windows on-device AI into Assist AR to improve the video feed seen by remote experts helping field technicians. The practical goal is unusually cool: make the picture usable even when somebody is holding a phone next to broken industrial equipment in a location with awful mobile reception.
-
-[TeamViewer Assist AR announcement](https://www.teamviewer.com/en/global/company/press/2026/teamviewer-windows-ai-assist-ar-frontline-workers/)
-
-### Intercom lets Fin pause an AI workflow until another system responds
-
-Approx. date: July 24, 2026
-
-Fin Procedures gained Wait for Webhook, which lets an AI support workflow literally stop mid-conversation while an outside process — identity verification, payment processing, account linking, etc. — completes, then automatically continue from the same point. If the outside system never responds, Fin can escalate to a person instead.
-
-[Intercom Wait for Webhook update](https://www.intercom.com/changes/en/152263-let-fin-wait-for-external-systems-before-continuing?)
 
 The short version
 
